@@ -1,5 +1,4 @@
 # DLP-weak-keys
-
 Methods to detect weak or vulnerable private keys in various Elliptic Curve standards.
 
 Basic Description about codes:
